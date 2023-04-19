@@ -1,9 +1,9 @@
-Wake Up 6:00 AM
-Workout 6:30 AM
-Breakfast 8:00 AM
-Office out 8:45 AM
-Back to home 4:30 PM
-Reading 6:00 PM
-Dinner 8:00 PM
-Relaxing 8:30 PM
-Sleeping 9:30 PM
+Wake Up 7:00 AM
+Workout 7:30 AM
+Breakfast 9:00 AM
+Office out 9:45 AM
+Back to home 6:30 PM
+Reading 8:00 PM
+Dinner 8:30 PM
+Relaxing 9:00 PM
+Sleeping 10:30 PM
